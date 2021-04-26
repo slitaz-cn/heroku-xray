@@ -1,6 +1,6 @@
 #!/bin/sh
 
-cat << EOF > /etc/xray/config.json
+cat << EOF > /etc/config.json
 {
     "inbounds": [
         {
@@ -26,4 +26,4 @@ cat << EOF > /etc/xray/config.json
 }
 EOF
 
-/usr/bin/xray run --config=/etc/xray/config.json
+/usr/bin/xray run --config=/etc/config.json
