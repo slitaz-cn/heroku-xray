@@ -5,7 +5,7 @@
     "env": {
         "UUID": {
             "description": "UUID of the user",
-            "value": "61371ec3-3554-41f0-a1cd-4e100354b293"
+            "value": ""
         },
     },
     "website": "https://github.com/slitaz-cn/heroku-xray",
